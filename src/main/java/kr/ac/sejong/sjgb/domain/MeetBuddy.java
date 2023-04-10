@@ -22,6 +22,7 @@ public class MeetBuddy {
     @JoinColumn(name = "intl_stu_id")
     private IntlStu intl_stu;
 
+
     private LocalDateTime when;
 
     private String description;
